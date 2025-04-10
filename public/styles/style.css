@@ -1,5 +1,4 @@
-
-
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Condensed+One&display=swap');
 
 
 *{
@@ -7,7 +6,7 @@
 }
 
 body{
-
+    
    background-image: linear-gradient(180deg, #2980b9 , #a9cce3 );
    display: flex;
    align-items: center;
@@ -35,6 +34,9 @@ body{
     transition: width 0.3s ease;
 }
 
+
+
+
 .button{
     background-color: white;
     border: 0;
@@ -58,6 +60,8 @@ body{
 
     width:200px;
     border-radius: 20px 0px 0px 20px;
+    font-family: "Special Gothic Condensed One", sans-serif;
+    
 
 }
 
